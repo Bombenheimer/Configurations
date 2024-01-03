@@ -1,2 +1,2 @@
 # Configurations
-Terminal and Desktop configurations
+Terminal and Desktop configurations for Linux ricing!
